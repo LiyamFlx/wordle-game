@@ -6,7 +6,7 @@ A simple web-based Wordle-style game where users get 6 chances to guess a 5-lett
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/wordle-game.git
+   git clone https://github.com/liyamflx/wordle-game.git
    ```
 2. Navigate to the project directory:
    ```
